@@ -9,4 +9,4 @@ Emoji: "\U0001F4DC"
 id: bafyreihxibdaockp5ny2lwuvt43ggoixnnbniszw3h7hgzgpmbul6chm3m
 ---
 # PERCEB - IA   
-Aquí no hay nada   
+Correr el código que subió el profe al Dropbox llamado perceb. Una vez lo corramos tenemos que hacer las operaciones (la de los pesos - Perceptron) que se hicieron en la clase.
